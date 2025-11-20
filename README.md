@@ -14,9 +14,9 @@ A simple website built using HTML and CSS.
 ## How to Run Locally
 1. Clone this repository:
    
-  https://github.com/shravani27-07/webnest.git
+      https://github.com/shravani27-07/webnest.git
   
-3. Open `index.html` in your browser.
+2. Open `index.html` in your browser.
 
 ### Live Demo 🚀
 Paste the link in the Website field.
