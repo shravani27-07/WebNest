@@ -21,6 +21,6 @@ A simple website built using HTML and CSS.
 ### Live Demo 🚀
 Paste the link in the Website field.
 
-https://webnest-4c59.onrender.com
+https://web-nest-seven.vercel.app
 
 
